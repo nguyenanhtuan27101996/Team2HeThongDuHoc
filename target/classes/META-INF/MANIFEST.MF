@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GDP4-HeThongDuHoc-SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HQTrung
+Implementation-Vendor-Id: com.cmc.gdp4
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GDP4-HeThongDuHoc-SpringBoot
+Created-By: Maven Integration for Eclipse
+
